@@ -1,0 +1,14 @@
+2020-05-16 10:30:57,060 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): o393409.ingest.sentry.io:443
+2020-05-16 10:30:57,712 DEBUG urllib3.connectionpool https://o393409.ingest.sentry.io:443 "POST /api/5242455/store/ HTTP/1.1" 200 41
+2020-05-16 10:37:34,379 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): o393409.ingest.sentry.io:443
+2020-05-16 10:37:35,017 DEBUG urllib3.connectionpool https://o393409.ingest.sentry.io:443 "POST /api/5242455/store/ HTTP/1.1" 200 41
+2020-05-16 10:39:09,283 INFO root Page Main
+2020-05-16 10:39:20,231 INFO root Page Success
+2020-05-16 10:39:23,747 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): o393409.ingest.sentry.io:443
+2020-05-16 10:39:24,354 DEBUG urllib3.connectionpool https://o393409.ingest.sentry.io:443 "POST /api/5242455/store/ HTTP/1.1" 200 41
+2020-05-19 18:22:51,766 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): o393409.ingest.sentry.io:443
+2020-05-19 18:22:52,496 DEBUG urllib3.connectionpool https://o393409.ingest.sentry.io:443 "POST /api/5242455/store/ HTTP/1.1" 200 41
+2020-05-19 18:23:26,210 INFO root Page Main
+2020-05-19 18:23:31,578 INFO root Page Success
+2020-05-19 18:23:35,991 DEBUG urllib3.connectionpool https://o393409.ingest.sentry.io:443 "POST /api/5242455/store/ HTTP/1.1" 200 41
+2020-05-19 18:39:00,867 INFO root Page Main
